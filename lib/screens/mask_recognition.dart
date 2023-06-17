@@ -64,6 +64,7 @@ class _MaskRecognitionPageState extends State<MaskRecognitionPage> {
                           ),
                           const SizedBox(
                             height: 10,
+                            //
                           )
                         ],
                       ))
