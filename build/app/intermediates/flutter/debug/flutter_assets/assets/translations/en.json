@@ -1,0 +1,10 @@
+{
+    "pickGallery": "Pick from Gallery",
+    "pickCamera": "Take a Photo",
+    "maskDetection" : "Mask Detection",
+    "maskClassification" : "Mask Classification",
+    "pleaseSelectImage" : "Please select an image from gallery or take a photo",
+    "camera" : "Camera",
+    "gallery" : "Gallery",
+    "result" : "Result"
+}

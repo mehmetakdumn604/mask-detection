@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable/notification_icon_background.xml"
+    }
+]

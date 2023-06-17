@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/layout/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

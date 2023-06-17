@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/res/merged/debug/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/makduman/StudioProjects/freelance/mask_detection/build/image_picker_android/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/Users/makduman/.gradle/caches/transforms-3/da92025536d2d1a4b1270613f7d9aed7/transformed/core-1.9.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

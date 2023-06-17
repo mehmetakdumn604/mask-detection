@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345034786129",
+    "project_id": "herbarist-40b19",
+    "storage_bucket": "herbarist-40b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345034786129:android:2e23ca684fd86437f6bf70",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345034786129-j9fu147mt3e9a7psbj5qv4ied1pui8m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_onboarding",
+            "certificate_hash": "d31c37e7e6737bee4265a9f8dde233e116646881"
+          }
+        },
+        {
+          "client_id": "345034786129-j1h3dmbo4pvcdq74u6h417lu7cq3qvqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnvvzOvVfygrF3I9zaalvE0LjQtfPAJH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345034786129-j1h3dmbo4pvcdq74u6h417lu7cq3qvqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
